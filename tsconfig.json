@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "./build",
+    "removeComments": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "exclude": ["./tests/*"]
+}
